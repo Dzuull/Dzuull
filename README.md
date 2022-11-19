@@ -12,4 +12,3 @@ I like systems learning, human-computer interaction, and System engineering deve
 - 📫 How to reach me: [Instagram](https://www.instagram.com/aryawbowo/)
 - calgot 012
 
-[![@obocloud's Holopin board](https://holopin.io/api/user/board?user=obocloud)](https://holopin.io/@obocloud)
